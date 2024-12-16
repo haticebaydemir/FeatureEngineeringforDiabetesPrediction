@@ -70,20 +70,11 @@ Feature Engineering has played a critical role in improving model performance. B
 - **Pre-feature engineering model**: A model trained on raw, untransformed data showed a lower accuracy and less reliable results. This was due to the lack of deeper context in the features, which hindered the model's learning process.
 - **Post-feature engineering model**: After creating new features, the model achieved higher accuracy and more balanced metrics (precision and recall). This demonstrates the powerful effect of feature engineering on model performance, highlighting its role in producing more reliable diabetes predictions.
 
-## Kaggle Linki 
-Projenin detaylarına ve veri setine ulaşmak için: [https://www.kaggle.com/code/haticebaydemir/large-scale-fish-classification]([https://www.kaggle.com/code/haticebaydemir/large-scale-fish-classification-99-6accuracy?scriptVersionId=203133824](https://www.kaggle.com/code/haticebaydemir/featureengineeringfordiabetesprediction))
 
-## İletişim 
-Herhangi bir soru veya öneriniz varsa, lütfen benimle iletişime geçin. Proje ile ilgili geri bildirimleriniz benim için değerlidir.
+## Kaggle 
+For details about the project and access to the dataset, visit: [featureengineeringfordiabetesprediction](https://www.kaggle.com/code/haticebaydemir/featureengineeringfordiabetesprediction)
 
-E-posta: baydemirhatice@hotmail.com
-
-Linkedln: https://www.linkedin.com/in/haticebaydemir/
-
-Kaggle Link
-For details about the project and access to the dataset, visit: [kaggle]((https://www.kaggle.com/code/haticebaydemir/featureengineeringfordiabetesprediction))
-
-Contact
+## Contact
 If you have any questions or suggestions, feel free to reach out. Your feedback on the project is highly appreciated.
 
 Email: baydemirhatice@hotmail.com
