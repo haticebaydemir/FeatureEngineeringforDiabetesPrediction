@@ -79,3 +79,13 @@ Herhangi bir soru veya öneriniz varsa, lütfen benimle iletişime geçin. Proje
 E-posta: baydemirhatice@hotmail.com
 
 Linkedln: https://www.linkedin.com/in/haticebaydemir/
+
+Kaggle Link
+For details about the project and access to the dataset, visit: [kaggle]((https://www.kaggle.com/code/haticebaydemir/featureengineeringfordiabetesprediction))
+
+Contact
+If you have any questions or suggestions, feel free to reach out. Your feedback on the project is highly appreciated.
+
+Email: baydemirhatice@hotmail.com
+
+Linkedln: https://www.linkedin.com/in/haticebaydemir/
